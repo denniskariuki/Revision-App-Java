@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/menu"/>
+        <item
+            android:id="@+id/nav_search"
+            android:title="Search"
+            android:icon="@drawable/menu_search"/>
+        <item
+            android:id="@+id/nav_categories"
+            android:title="Categories"
+            android:icon="@drawable/categories"/>
+        <item
+            android:id="@+id/nav_materials"
+            android:title="Revision Materials"
+            android:icon="@drawable/textbook"/>
+        <item
+            android:id="@+id/nav_schemes"
+            android:title="Schemes Of Work"
+            android:icon="@drawable/spiral"/>
+        <item
+            android:id="@+id/nav_outline"
+            android:title="Course Outline"
+            android:icon="@drawable/outline"/>
+        <item
+            android:id="@+id/nav_answers"
+            android:title="Solved Questions"
+            android:icon="@drawable/sort"/>
+
+
+
+    </group>
+
+    <item android:title="About Us">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_share"
+                    android:title="Share"
+                    android:icon="@drawable/share"/>
+                <item
+                    android:id="@+id/nav_rate"
+                    android:title="Rate Us"
+                    android:icon="@drawable/rate"/>
+
+
+            </group>
+        </menu>
+
+
+    </item>
+
+
+</menu>

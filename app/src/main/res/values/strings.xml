@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Splash Screen 1</string>
+
+    <!-- Strings for DashBoard-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airport">Airport</string>
+    <string name="logo_name">Book Worm</string>
+    <string name="search_text">Search....</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
